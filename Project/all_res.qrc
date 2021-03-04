@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/res/default_ui">
+        <file>res/bt_exit.png</file>
+        <file>res/bt_menu.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>res/background.png</file>
+        <file>res/user_head_image.png</file>
+    </qresource>
+</RCC>
